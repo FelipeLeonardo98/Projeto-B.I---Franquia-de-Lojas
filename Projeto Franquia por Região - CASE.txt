@@ -1,0 +1,16 @@
+				Projeto Franquia por Região
+		CASE: Análise situação atual, possíveis planos futuros
+1) Quantidades e informações básicas essenciais
+	1.1: Quantidade de Lojas e Funcionários de modo geral - FEITO
+	1.2: Quantidade de Regiões(mesmo que gestor). Quais são as regiões - FEITO
+	1.3: Gestores, lojas por gestor - FEITO
+	1.4: Quantidade e informações de funcionários por lojas
+2)Informações com nível mais centrado e de influência
+	2.1: Quanto cada loja vende, qual vende mais: por gestor - FEITO
+	2.2: Média de lucro de cada loja, quais estão acima da média ou abaixo
+	2.3: Média de venda (caixa) dos funcionários por loja, destaques para os:
+		acima da média e quem mais vendeu por loja
+	2.4: Mapa Geográfico das lojas, informações essencias
+		 (detalhes simples será um diferencial)
+//Usar MEDIDOR com base na AVG(totalLojas), selecionar a loja e ver quem chega no filtro
+	
