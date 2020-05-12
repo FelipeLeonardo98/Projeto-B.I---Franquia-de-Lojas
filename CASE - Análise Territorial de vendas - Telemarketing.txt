@@ -1,5 +1,5 @@
 		Projeto Análise Territorial de vendas, empresa de Telemarketing
-		CASE: Análise situação atual, possíveis planos futuros
+		CASE: Análise situação atual, possíveis planos para futuros 7434
 1) Quantidades e informações básicas essenciais
 	1.1: Quantidade de Lojas e Funcionários de modo geral - FEITO
 	1.2: Quantidade de Regiões(mesmo que gestor). Quais são as regiões - FEITO
