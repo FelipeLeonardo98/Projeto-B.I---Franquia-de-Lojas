@@ -1,3 +1,4 @@
+// Projeto em fase de desenvolvimento - Irá ser acrescentada a parte de Design/UX
 		Projeto Análise Territorial de vendas, empresa de Telemarketing
 
 		CASE: Análise de situação atual, possíveis planos futuros - 1° Semestre/2020
