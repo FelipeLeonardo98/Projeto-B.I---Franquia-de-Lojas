@@ -1,3 +1,3 @@
 # Projeto-B.I---Franquia-de-Lojas
-Projeto em fase de desenvolvimento - Irá ser acrescentada a parte de Design/UX
-Projeto de Business Intelligence para análise de franquias de uma loja em diversas regiões do Estado de São Paulo
+Projeto de Business Intelligence para análise vendas, onde uma empresa de Telemarketing tem uma quantia de filiais espalhadas em diversas regiões do Estado de São Paulo.
+É feita uma análise e visão de: Recursos Humanos, lucros, visão geográfica e mais.
