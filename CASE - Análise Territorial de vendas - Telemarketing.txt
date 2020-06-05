@@ -14,6 +14,6 @@
 	2.3: Média de venda (caixa) dos funcionários por loja, destaques para os:
 		acima da média e quem mais vendeu por loja - SERÁ IMPLEMENTADO FUTURAMENTE
 	2.4: Mapa Geográfico das lojas, informações essencias
-		 (detalhes simples será um diferencial) - 
+		 (detalhes simples será um diferencial)
 
 	
